@@ -1,4 +1,4 @@
-# Recurrent-Neural-Network-from-Scratch-in-Python-
+# Recurrent-Neural-Network-from-Scratch-in-Python
 An Essential Read for Data Scientists
 Flashback: A Recap of Recurrent Neural Network Concepts
 Let’s quickly recap the core concepts behind recurrent neural networks.
